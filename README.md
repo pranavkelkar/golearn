@@ -1,12 +1,16 @@
 # golearn
 Learn Go
 
-# Initialize Module
+## Initialize Module
 ```
 go mod init company.com/golearn
 ```
 
-# Test
+## Status
+[![Build Status](https://travis-ci.org/pranavkelkar/golearn.svg?branch=main)](https://travis-ci.org/pranavkelkar/golearn.svg?branch=main)
+
+## Test
+
 ```
 cd brego
 go test
